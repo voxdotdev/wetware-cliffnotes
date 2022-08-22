@@ -50,6 +50,6 @@ If you don't know enough about your topic, for example, how to start learning ab
 “Setting yourself a goal is the first step. The next step in an action plan is to create small objectives that allow you to achieve something every day or so. The more small objectives you have, the more easily you’ll see where you are in relation to your goal.”
 —Johanna Rothman
 
-### ACTION ITEM: 
+### ACTION ITEM
 
 Make a list of 3 of your most important goals. Make sure each objective follows the SMART characteristics.
