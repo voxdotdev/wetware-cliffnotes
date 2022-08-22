@@ -39,11 +39,13 @@ Without deadlines, a goal will languish and be perpetually pushed aside by the m
 
 ### How to get started 
 
-Sometimes a goal can be so overwhelming it's difficult to find a starting point, a thread to pick at to start to unravel the tangle. 
+Sometimes a goal can be so overwhelming it's difficult to find a starting point, a thread to pick at to start to de-tangling the details. 
 
 Break it down. It's probably been repeated ad-nauseam but this is the way. 
 
 Create 5 or 10 minute tasks, just to get started. 
+
+Shout out to Getting Things Done, if it takes less than 2 minutes, do it now, when you think about it.
 
 If you don't know enough about your topic, for example, how to start learning about it, seek out others. Find peers who already know what you're trying to learn, or look up resources online. Chances are someone has been where you are now and will have guidance.
 
