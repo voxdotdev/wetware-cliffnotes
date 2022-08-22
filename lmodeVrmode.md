@@ -1,7 +1,7 @@
 
 ### L-Mode versus R-mode
 
-## Main takeaways
+## Main takeaways / main points
 
 * L-mode is quick, deliberate, logical and factual, default brain mode.
 * R-mode is useful for development, stuck on a problem
@@ -31,7 +31,7 @@ In doing this repeatedly the book advises, eventually, you should be able to pic
 
 I have yet to attempt this, but maybe that will give me more understanding. 
 
-Characteristics of L-mode 
+### Characteristics of L-mode 
 
 Processing</br>
 L-mode processing is comfortable, familiar.
