@@ -13,7 +13,6 @@ This is why call centers work. You can hire a large number of folks who don't ha
 
 ### Stage 2: Advanced Beginners
 
-
 ### Stage 3: Competent
 
 ### Stage 4: Proficient 

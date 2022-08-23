@@ -6,3 +6,6 @@ Notes / Takeaways from [Refactor Your Wetware by Andy Hunt](https://www.goodread
 1 / ? Books recommended for beginner developers.
 
 List to follow here
+
+**[x] Pragmatic Thinking and Learning: Refactor Your Wetware**
+
