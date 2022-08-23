@@ -6,7 +6,7 @@
 * L-mode is quick, deliberate, logical and factual, default brain mode.
 * R-mode is useful for development, stuck on a problem
 * Reach R-mode by writing at least 3 pages upon waking, without a filter. Review for gold nuggets.
-* Alternatively, go for a walk, do some task that doesn't require much thought and allows your mind to wander, essentially get your mind off the issue or problem you're needing to solve, L-mode will get bored and peace out, allowing for R-mode to start reporting.
+* Alternatively, go for a walk, do some task that doesn't require much thought and allows your mind to wander, essentially get your mind off the issue or problem you're needing to solve. L-mode will get bored and peace out, allowing for R-mode to start reporting.
 
 
 Summary
@@ -29,7 +29,7 @@ The author recommended an exercise, to write 3 pages immediately upon waking, as
 
 In doing this repeatedly the book advises, eventually, you should be able to pick out useful ideas or theories among the ramblings.
 
-I have yet to attempt this, but maybe that will give me more understanding. 
+I have yet to attempt this but maybe it will give me more understanding, if I ever get around to it. 
 
 ### Characteristics of L-mode 
 
