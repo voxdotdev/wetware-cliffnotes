@@ -27,7 +27,7 @@ Personally, I had difficulty understanding the point of this segment, perhaps at
 
 The author recommended an exercise, to write 3 pages immediately upon waking, as this is when you're supposedly closest to the non-verbal r-mode running in the background. 
 
-In doing this repeatedly the book advises, eventually, you should be able to pick out useful ideas or theories amongst the ramblings.
+In doing this repeatedly the book advises, eventually, you should be able to pick out useful ideas or theories among the ramblings.
 
 I have yet to attempt this, but maybe that will give me more understanding. 
 
